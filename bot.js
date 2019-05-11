@@ -49,7 +49,7 @@ message.channel.awaitMessages(filte, { max: 1, time: 30000, errors: ['time'] })
 
 
 
-const devs = ['486322208109494282' , '' , ''];
+const devs = ['294075671020568578' , '' , ''];
 
 const adminprefix = "&";
 
